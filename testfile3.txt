@@ -1,0 +1,4 @@
+Dette er indhold til testfile!!
+Her er noget mere text
+her er endnu mere text
+her er endnu endnu mere text
