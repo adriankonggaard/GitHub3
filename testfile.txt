@@ -1,1 +1,4 @@
-Dette er indhold til testfile3
+Dette er indhold til testfile
+Ny linje i testfile
+her er endnu mere text
+her er endnu endnu mere text
