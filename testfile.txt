@@ -1,5 +1,3 @@
-Dette er indhold til testfile
-Ny linje i testfile
-her er endnu mere text
-her er endnu endnu mere text
-her er endnu endnu endnu mere text
+Testfile
+Testfile
+
