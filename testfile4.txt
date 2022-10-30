@@ -3,4 +3,8 @@ Testfile 4
 Testfile 4
 Linje tilføjet fra github_copy
 Linje lave i github3 afspejling
+<<<<<<< HEAD
 endnu en linje tilføjet fra github_copy
+=======
+Endnu en linje tilføjet fra github
+>>>>>>> 9762fcdf08825e28c59c2a6160ac9d04dc8aef21
