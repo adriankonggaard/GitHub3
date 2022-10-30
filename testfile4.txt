@@ -5,9 +5,5 @@ Linje tilføjet fra github_copy
 Linje lave i github3 afspejling
 endnu en linje tilføjet fra github_copy
 Endnu en linje tilføjet fra github
-<<<<<<< HEAD
 Endnu endnu en linje tilføjet fra github_copy
-
-=======
 endnu endnu en linje fra github
->>>>>>> a7cea6eae00a5775545cd4d987143dfc04e58386
