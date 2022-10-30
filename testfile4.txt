@@ -5,3 +5,10 @@ Linje tilføjet fra github_copy
 Linje lave i github3 afspejling
 endnu en linje tilføjet fra github_copy
 Endnu en linje tilføjet fra github
+Testfile 4
+Testfile 4
+Testfile 4
+Linje tilføjet fra github_copy
+Linje lave i github3 afspejling
+endnu en linje tilføjet fra github_copy
+Endnu en linje tilføjet fra github
