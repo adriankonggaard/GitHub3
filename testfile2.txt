@@ -9,3 +9,4 @@ Dette her er opdateret på remote
 Testfile2-8
 Dette her er opdateret på remote
 Testfile2-9
+endnu en opdatering fra remote
